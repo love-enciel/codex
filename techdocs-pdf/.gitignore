@@ -1,0 +1,5 @@
+techdocs_browser_profile/
+techdocs_pdf/
+__pycache__/
+*.pyc
+.venv/
